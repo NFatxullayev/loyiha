@@ -1,6 +1,10 @@
-h1{
-    color: red;
-}
-p{
-    color: blue;
+/* Text, Box, png formatiga ega bogan rasimlaga */
+
+.box{
+    width: 700px;
+    height: 300px;
+    font-size: 20px;
+    /* border: 10px solid black; */
+    outline: 3px solid black;
+    
 }
